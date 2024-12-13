@@ -18,6 +18,9 @@ namespace WindowsFormsApp_241213
 
             //MessageBox.Show("Hello, World!");
             textBox_print.Text = "hi\r\nhihi";
+            int a = 10;
+            
+
         }
     }
 }
